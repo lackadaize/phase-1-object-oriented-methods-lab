@@ -29,4 +29,4 @@ BoardMember.prototype.sayHi = function() {
 // console.log(newBoardMember.approve())
 // console.log(newBoardMember.doCharity())
 // console.log(newBoardMember.releasePressStatement())
-// console.log(newBoardMember.sayHi())
+// console.log(newBoardMember.sayHi()) 
